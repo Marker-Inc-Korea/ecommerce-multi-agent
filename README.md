@@ -30,8 +30,8 @@
 1. 저장소 복제
 
    ```bash
-   git clone https://github.com/Marker-Inc-Korea/ecommerce-triage-agent.git
-   cd ecommerce-triage-agent
+   git clone https://github.com/Marker-Inc-Korea/ecommerce-multi-agent.git
+   cd ecommerce-multi-agent
    ```
 2. 의존성 설치
 
